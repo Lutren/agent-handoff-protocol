@@ -18,6 +18,12 @@ It is intentionally small. It does not prescribe a project stack or require a se
 
 ## Quick Start
 
+Landing page: https://lutren.github.io/agent-handoff-protocol/
+
+Announcement issue: https://github.com/Lutren/agent-handoff-protocol/issues/1
+
+Publication gist: https://gist.github.com/Lutren/027e39377fb2e27499ecb0bfa375769d
+
 ### For Codex
 
 Copy the skill folder into your Codex skills directory or paste the relevant instructions into your project-level agent instructions:
@@ -84,4 +90,3 @@ Use this protocol when:
 ## License
 
 MIT. See `LICENSE`.
-
